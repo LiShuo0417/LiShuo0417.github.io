@@ -14,38 +14,38 @@ Education
 ======
 * Shandong University &emsp; 09/2020 – 06/2023
   
-  * School of Mathematics
-  * MSc in Operational Research and Cybernetics
+  School of Mathematics
+  MSc in Operational Research and Cybernetics
     
   
 * Xinjiang University  &emsp; 09/2016 – 06/2020
   
-  * School of Mathematics and Systems Science
-  * BSc in Mathematics and Applied Mathematics
+  School of Mathematics and Systems Science
+  BSc in Mathematics and Applied Mathematics
 
 
 Research experience
 ======
 * Theory and applications of aggregation and inference operators on bounded lattices &emsp; 09/2020 – 06/2023
   
-  * Researcher | Advisor: Liu huawen
+  Researcher | Advisor: Liu huawen
     
 
 * Artificial intelligence technology based on investment strategy & financial risk measurement &emsp; 09/2020 – 06/2023
   
-  * Researcher | Advisor: Liu Huawen
+  Researcher | Advisor: Liu Huawen
                    
 
 * Research on sequential, algebraic and logical methods of complex reasoning and their quantitative models  09/2020 – 12/2020
   
-  * Researcher | Advisor: Liu Huawen 
+  Researcher | Advisor: Liu Huawen 
 
 
 Intership Experience
 ======
 * School of Software, Shandong University  &emsp; 09/2020 – 01/2021
   
-  * Research Assistant (Full-time)
+  Research Assistant (Full-time)
 
 Skills
 ======
