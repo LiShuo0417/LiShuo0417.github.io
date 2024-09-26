@@ -26,17 +26,17 @@ Research experience
 ======
 * Theory and applications of aggregation and inference operators on bounded lattices &emsp; 09/2020 – 06/2023
   
-  Member | Advisor: Liu huawen
+  Member | Advisor: Huawen Liu
     
 
 * Artificial intelligence technology based on investment strategy & financial risk measurement &emsp; 09/2020 – 06/2023
   
-  Member | Advisor: Liu Huawen
+  Member | Advisor: Huawen Liu
                    
 
 * Research on sequential, algebraic and logical methods of complex reasoning and their quantitative models  09/2020 – 12/2020
   
-  Member | Advisor: Liu Huawen 
+  Member | Advisor: Huawen Liu 
 
 
 Internship Experience
