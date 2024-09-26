@@ -39,7 +39,7 @@ Research experience
   Researcher | Advisor: Liu Huawen 
 
 
-Intership Experience
+Internship Experience
 ======
 * School of Software, Shandong University  &emsp; 09/2020 – 01/2021
   
