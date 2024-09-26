@@ -14,15 +14,13 @@ Education
 ======
 * Shandong University &emsp; 09/2020 – 06/2023
   
-  School of Mathematics
-  MSc in Operational Research and Cybernetics
+  School of Mathematics &emsp; MSc in Operational Research and Cybernetics
     
   
 * Xinjiang University  &emsp; 09/2016 – 06/2020
   
-  School of Mathematics and Systems Science
-  BSc in Mathematics and Applied Mathematics
-
+  School of Mathematics and Systems Science &emsp; BSc in Mathematics and Applied Mathematics
+  
 
 Research experience
 ======
