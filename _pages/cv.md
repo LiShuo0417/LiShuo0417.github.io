@@ -43,7 +43,7 @@ Internship Experience
 ======
 * School of Software, Shandong University  &emsp; 09/2020 – 01/2021
   
-  Research Assistant (Full-time)
+  Teaching Assistant (Full-time）
 
 Skills
 ======
